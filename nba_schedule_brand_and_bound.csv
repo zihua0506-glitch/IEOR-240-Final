@@ -1,0 +1,11 @@
+Team,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10
+LAL,vs GSW,vs GSW,@ GSW,@ SAS,@ SAS,@ MIA,@ HOU,@ OKC,@ OKC,vs SAS
+GSW,@ LAL,@ LAL,vs LAL,vs MIA,@ MIA,@ SAS,@ SAS,@ HOU,@ HOU,@ OKC
+SAS,vs HOU,vs HOU,@ HOU,vs LAL,vs LAL,vs GSW,vs GSW,vs BOS,vs NYK,@ LAL
+HOU,@ SAS,@ SAS,vs SAS,vs OKC,@ OKC,@ OKC,vs LAL,vs GSW,vs GSW,vs NYK
+OKC,vs MIA,@ MIA,---,@ HOU,vs HOU,vs HOU,vs BOS,vs LAL,vs LAL,vs GSW
+MIL,vs CLE,vs CLE,@ CLE,@ NYK,@ NYK,@ BOS,@ MIA,vs MIA,vs MIA,vs BOS
+MIA,@ OKC,vs OKC,---,@ GSW,vs GSW,vs LAL,vs MIL,@ MIL,@ MIL,@ CLE
+BOS,vs NYK,@ NYK,@ NYK,@ CLE,@ CLE,vs MIL,@ OKC,@ SAS,vs CLE,@ MIL
+NYK,@ BOS,vs BOS,vs BOS,vs MIL,vs MIL,vs CLE,vs CLE,@ CLE,@ SAS,@ HOU
+CLE,@ MIL,@ MIL,vs MIL,vs BOS,vs BOS,@ NYK,@ NYK,vs NYK,@ BOS,vs MIA
